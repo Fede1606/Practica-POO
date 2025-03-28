@@ -10,6 +10,7 @@ class Program
 
         Guerrero1 guerrero1 = new Guerrero1("Martin", 20, 10);
         Guerrero2 guerrero2 = new Guerrero2("José", 22, 10);
+        Princesa princesa = new Princesa("Paloma", 10, 5, 14);
 
         Console.WriteLine($"Pelea entre los guerreros {guerrero1.Nombre} y {guerrero2.Nombre}");
 
@@ -20,6 +21,11 @@ class Program
         while (true)
         {
             int harm = rand.Next(1, 6);
+
+            if(harm == 3)
+            {
+                princesa.Mood(harm);
+            }
             
             guerrero1.atacar(harm);
             guerrero2.Harm(harm);
