@@ -1,0 +1,14 @@
+C:\Users\PC08\Desktop\practica POO\bin\Debug\net9.0\practica POO.exe
+C:\Users\PC08\Desktop\practica POO\bin\Debug\net9.0\practica POO.deps.json
+C:\Users\PC08\Desktop\practica POO\bin\Debug\net9.0\practica POO.runtimeconfig.json
+C:\Users\PC08\Desktop\practica POO\bin\Debug\net9.0\practica POO.dll
+C:\Users\PC08\Desktop\practica POO\bin\Debug\net9.0\practica POO.pdb
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.AssemblyInfoInputs.cache
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.AssemblyInfo.cs
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.csproj.CoreCompileInputs.cache
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.dll
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\refint\practica POO.dll
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.pdb
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\practica POO.genruntimeconfig.cache
+C:\Users\PC08\Desktop\practica POO\obj\Debug\net9.0\ref\practica POO.dll
